@@ -1,0 +1,27 @@
+==== Buoi 8 ====
+ * Routing (basic)
+    npm install react-router-dom --save
+    - Homepage
+    - About
+    - ListMovie
+ * HTTP & Axios
+    npm install axios --save  <=> fetch
+    - Lấy danh sách phim.
+
+==== Buoi 9 ====
+    * Redux thunk <=> Redux saga
+    * Get Params From URL: route, component sử dụng match
+    
+============== Buoi 10 ==============
+    * Detail Movie
+    * Routing (HomeLayout & AdminLayout)
+    * Loading
+
+============== Buoi 11 ==============
+    * HOC
+    * Đăng nhập Admin
+
+============== Buoi 12 ==============
+    * Đăng nhập Admin (tt)
+    * Add User
+    * HOOKS
